@@ -37,7 +37,12 @@ You can use a lithium battery ou a USB cable for power supply.
 
   4.1)  Firmware download link (Default version): https://docs.ai-thinker.com/_media/gprs/ai-thinker_a9_a9g_at_v02.02.20190915r.rar
 
-       Firmware download link (Development version): https://docs.ai-thinker.com/_media/gprs/ai-thinker_a9_a9g_at_v02.02.20181011r.7z
+
+Firmware download link (Development version): https://docs.ai-thinker.com/_media/gprs/ai-thinker_a9_a9g_at_v02.02.20181011r.7z
 
   4.2) Burning tool: https://docs.ai-thinker.com/_media/gprs/tools/firmwarw_tool_v2.1.7z
+  
        Burnuing tool manual: [firmware_tool_operation.pdf](https://github.com/LeTavore/GPS-studies/files/7890518/firmware_tool_operation.pdf)
+
+
+5) After decompress the .rar, execute the "fpubgrade.exe", them click the button to select the firmware to be downloaded, and close the window.
