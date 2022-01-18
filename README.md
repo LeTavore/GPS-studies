@@ -23,11 +23,21 @@ You can use a lithium battery ou a USB cable for power supply.
 3) Burning the firmware:
 *Example of AT commands: https://docs.ai-thinker.com/gprs/examples
 -Preparation: 
-     a-GPRS series module firmware release: http://docs.ai-thinker.com/gprs/firmware
+
+     a- GPRS series module firmware release: http://docs.ai-thinker.com/gprs/firmware
      
-     b-Burning software download and burning tutorial: http://docs.ai-thinker.com/gprs_download
+     b- Burning software download and burning tutorial: http://docs.ai-thinker.com/gprs_download
      
-     c-CSDK_Github open source information: https://github.com/Ai-Thinker-Open/GPRS_C_SDK
+     c- CSDK_Github open source information: https://github.com/Ai-Thinker-Open/GPRS_C_SDK
      
+     d- A9 Tracker app: A9Tracker app user guide
      
-     -A9 Tracker app: A9Tracker app user guide
+    
+4) Starting by the GPRS firmware, when you click on the link in the section 3) item a, there will by a link for a tutorial you can see the step-by-step, just like below:
+
+  4.1)  Firmware download link (Default version): https://docs.ai-thinker.com/_media/gprs/ai-thinker_a9_a9g_at_v02.02.20190915r.rar
+
+       Firmware download link (Development version): https://docs.ai-thinker.com/_media/gprs/ai-thinker_a9_a9g_at_v02.02.20181011r.7z
+
+  4.2) Burning tool: https://docs.ai-thinker.com/_media/gprs/tools/firmwarw_tool_v2.1.7z
+       Burnuing tool manual: [firmware_tool_operation.pdf](https://github.com/LeTavore/GPS-studies/files/7890518/firmware_tool_operation.pdf)
